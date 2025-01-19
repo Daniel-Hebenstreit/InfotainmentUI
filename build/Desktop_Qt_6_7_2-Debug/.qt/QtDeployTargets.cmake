@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appTeslaInfotainment_FILE /home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_7_2-Debug/appTeslaInfotainment)
+set(__QT_DEPLOY_TARGET_appTeslaInfotainment_TYPE EXECUTABLE)

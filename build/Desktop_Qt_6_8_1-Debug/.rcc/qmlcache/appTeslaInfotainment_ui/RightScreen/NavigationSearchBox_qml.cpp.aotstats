@@ -1,0 +1,12 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                ],
+                "filepath": "/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml"
+            }
+        ],
+        "moduleId": "TeslaInfotainment(appTeslaInfotainment)"
+    }
+]

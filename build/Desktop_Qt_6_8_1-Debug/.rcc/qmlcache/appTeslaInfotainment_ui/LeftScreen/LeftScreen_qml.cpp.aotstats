@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 373,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 345,
+                        "errorMessage": "Cannot access value for name bottomBar",
+                        "functionName": "bottom",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "Cannot access value for name rightScreen",
+                        "functionName": "right",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 339,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 16
+                    }
+                ],
+                "filepath": "/home/hebi/QML Tut/Other/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml"
+            }
+        ],
+        "moduleId": "TeslaInfotainment(appTeslaInfotainment)"
+    }
+]

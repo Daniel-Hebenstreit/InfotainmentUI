@@ -1,0 +1,12 @@
+-I
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/hebi/QtInstall/6.8.1/gcc_64/qml
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_TeslaInfotainment.qrc
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appTeslaInfotainment_raw_qml_0.qrc
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qml.qrc
+--module
+TeslaInfotainment

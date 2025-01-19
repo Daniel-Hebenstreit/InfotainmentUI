@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/TeslaInfotainment/">
+    <file alias="Main.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/NavigationSearchBox.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="ui/BottomBar/VolumeComponent.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/VolumeComponent.qml</file>
+  </qresource>
+</RCC>
+

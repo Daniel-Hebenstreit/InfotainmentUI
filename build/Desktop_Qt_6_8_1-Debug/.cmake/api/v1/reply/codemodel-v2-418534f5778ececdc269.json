@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bbe234070674dddc8b7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TeslaInfotainment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ef7639024524c2e4f740.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ab45bff20c543179a9ab.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-999576bc3819506e6692.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-022bce135785b1351ee0.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1fa5073a5c05dac319a7.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment-Debug-8ee377c217bc71c3cb3d.json",
+					"name" : "appTeslaInfotainment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_autogen-Debug-0940d11be37478d9018d.json",
+					"name" : "appTeslaInfotainment_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_autogen_timestamp_deps-Debug-ea247f1d7cdc1ec3fa64.json",
+					"name" : "appTeslaInfotainment_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_qmlimportscan-Debug-bb81b054fc28c2ac43ca.json",
+					"name" : "appTeslaInfotainment_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_qmllint-Debug-673e8690a2c32e38edf6.json",
+					"name" : "appTeslaInfotainment_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_qmllint_json-Debug-690998951788054116c3.json",
+					"name" : "appTeslaInfotainment_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_qmllint_module-Debug-a5bb7f91f18b4b3d389d.json",
+					"name" : "appTeslaInfotainment_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_qmltyperegistration-Debug-f0f90ea49a381c602035.json",
+					"name" : "appTeslaInfotainment_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaInfotainment_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaInfotainment_tooling-Debug-20d4274f86df6412a753.json",
+					"name" : "appTeslaInfotainment_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTeslaInfotainment_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTeslaInfotainment_aotstats_target-Debug-b26a7a708ab13af7ce2e.json",
+					"name" : "module_appTeslaInfotainment_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/hebi/QML Tut/Other/TeslaInfotainment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

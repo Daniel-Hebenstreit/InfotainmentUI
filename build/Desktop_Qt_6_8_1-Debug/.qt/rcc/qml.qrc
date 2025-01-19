@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="ui/assets/carRender.jpg">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/carRender.jpg</file>
+    <file alias="ui/assets/carRender2.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/carRender2.png</file>
+    <file alias="ui/assets/carIcon.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/carIcon.png</file>
+    <file alias="ui/assets/open.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/open.png</file>
+    <file alias="ui/assets/closed.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/closed.png</file>
+    <file alias="ui/assets/user.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/user.png</file>
+    <file alias="ui/assets/unlock.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/unlock.png</file>
+    <file alias="ui/assets/search.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/search.png</file>
+    <file alias="ui/assets/volume.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume.png</file>
+    <file alias="ui/assets/volume-mute.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-mute.png</file>
+    <file alias="ui/assets/volume-low.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-low.png</file>
+    <file alias="ui/assets/volume-mid.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-mid.png</file>
+    <file alias="ui/assets/volume-up.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-up.png</file>
+    <file alias="ui/assets/volume-max.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-max.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,71 @@
+{
+    "classes": [
+        {
+            "className": "HVACHandler",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "changeTargetTemp",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "targetTemp",
+                    "notify": "targetTempChanged",
+                    "read": "targetTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTargetTemp"
+                }
+            ],
+            "qualifiedClassName": "HVACHandler",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "targetTempChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newTargetTemp",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "setTargetTemp",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "hvachandler.h",
+    "outputRevision": 68
+}

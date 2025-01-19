@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TeslaInfotainment/">
+    <file alias="Main.qml">/home/hebi/QML Tut/Other/TeslaInfotainment/Main.qml</file>
+  </qresource>
+</RCC>
+

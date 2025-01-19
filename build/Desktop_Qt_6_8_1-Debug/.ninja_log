@@ -1,0 +1,173 @@
+# ninja log v6
+536	845	1736874760475266934	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+533	672	1736874760295264304	.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	b64416b9eec7bf29
+11	16	1736529262569886234	TeslaInfotainment/ui/BottomBar/HVACComponent.qml	90de849b93c8dd01
+11	16	1736529262569886234	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/BottomBar/HVACComponent.qml	90de849b93c8dd01
+11	16	1736354236675596825	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/RightScreen/RightScreen.qml	a291761edc94b228
+580	10025	1736527158634369475	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_qmlcache_loader.cpp.o	fa00c7f7c3d77b2c
+11	451	1736874760085261235	appTeslaInfotainment_autogen/mocs_compilation.cpp	a7a245b22a59cd86
+451	456	1736874760098594763	meta_types/appTeslaInfotainment_json_file_list.txt	6bc5ec2f2045ba56
+55	80	1736529262633220507	.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+11	451	1736874760085261235	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appTeslaInfotainment_autogen/mocs_compilation.cpp	a7a245b22a59cd86
+11	16	1736352135019379582	TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml	c08d33717b44d466
+11	16	1736354236675596825	TeslaInfotainment/ui/RightScreen/RightScreen.qml	a291761edc94b228
+94	106	1736441409298125655	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_TeslaInfotainment.cpp	c4aad33f1b869469
+465	532	1736874760151928876	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appteslainfotainment_qmltyperegistrations.cpp	cee0a078fe377ce7
+10	16	1736019261506505360	TeslaInfotainment/Main.qml	fc265e561b6c8d27
+55	80	1736529262633220507	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+10	15	1736105798849326409	TeslaInfotainment/ui/LeftScreen/LeftScreen.qml	fe00fa4b411b5108
+532	858	1736874760491933845	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp	3a82f51821072fdc
+532	858	1736874760491933845	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.aotstats	3a82f51821072fdc
+536	845	1736874760475266934	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+536	845	1736874760475266934	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+875	9099	1736874760515267519	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.o	112747d434e8b976
+7376	13660	1736874767018695890	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.o	2a404f57a887812f
+672	824	1736874760451933260	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.aotstats	614abb5d7112690a
+98	580	1736527158627702705	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qml.cpp	f3dbba77d4a891ac
+532	858	1736874760491933845	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp	3a82f51821072fdc
+33	45	1736105616829688382	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/assets/carRender2.png	86cb18801408eaa5
+672	824	1736874760451933260	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.aotstats	614abb5d7112690a
+869	7375	1736874760508600755	CMakeFiles/appTeslaInfotainment.dir/appTeslaInfotainment_autogen/mocs_compilation.cpp.o	96a872b7deb76182
+451	456	1736874760098594763	meta_types/appTeslaInfotainment_json_file_list.txt.timestamp	6bc5ec2f2045ba56
+672	824	1736874760451933260	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp	614abb5d7112690a
+6983	14924	1736874766625356809	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.o	c91e75d0075bb9ee
+465	532	1736874760151928876	appteslainfotainment_qmltyperegistrations.cpp	cee0a078fe377ce7
+456	465	1736874760105261528	meta_types/qt6appteslainfotainment_debug_metatypes.json.gen	61d78403e7d90ae8
+14924	15595	1736874774565472841	appTeslaInfotainment	53b595cc9ec34dc0
+536	716	1736874760338598270	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.aotstats	883217eec24875de
+536	716	1736874760338598270	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.aotstats	883217eec24875de
+8958	14909	1736874768598718980	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.o	b817e6b705b06f18
+465	532	1736874760151928876	TeslaInfotainment/appTeslaInfotainment.qmltypes	cee0a078fe377ce7
+536	716	1736874760338598270	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp	883217eec24875de
+533	836	1736874760468600171	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+532	868	1736874760501933991	.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp	fd145d642a5cfe6f
+11	17	1736529262569886234	TeslaInfotainment/ui/BottomBar/VolumeComponent.qml	f3c3e5ca62e137a4
+532	868	1736874760501933991	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.aotstats	fd145d642a5cfe6f
+456	465	1736874760105261528	meta_types/qt6appteslainfotainment_debug_metatypes.json	61d78403e7d90ae8
+42	2733	1736189640957553102	CMakeFiles/appTeslaInfotainment.dir/controllers/system.cpp.o	f05044cef613d751
+672	824	1736874760451933260	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp	614abb5d7112690a
+8223	14503	1736874767865374930	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.o	158b9b4e085347d9
+11	55	1736529262609886828	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+451	456	1736874760098594763	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/appTeslaInfotainment_json_file_list.txt	6bc5ec2f2045ba56
+874	8223	1736874760515267519	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.o	a4d6dde26d0f2eb5
+9787	13384	1736527167841178041	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qml.cpp.o	566782e9cac58f54
+10	15	1736105798849326409	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml	fe00fa4b411b5108
+451	456	1736874760098594763	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/appTeslaInfotainment_json_file_list.txt.timestamp	6bc5ec2f2045ba56
+533	672	1736874760295264304	.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp	b64416b9eec7bf29
+20	25	1736442972513325485	TeslaInfotainment/ui/BottomBar/BottomBar.qml	c984a9bf8aa4ba11
+10	17	1736020560096528669	TeslaInfotainment/ui/assets/carRender.jpg	641b81f91282daae
+532	868	1736874760501933991	.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.aotstats	fd145d642a5cfe6f
+98	580	1736527158627702705	.qt/rcc/qrc_qml.cpp	f3dbba77d4a891ac
+20	25	1736442972513325485	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/BottomBar/BottomBar.qml	c984a9bf8aa4ba11
+10	16	1736019261506505360	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/Main.qml	fc265e561b6c8d27
+872	6983	1736874760515267519	CMakeFiles/appTeslaInfotainment.dir/controllers/volumehandler.cpp.o	3d770c86efbcd336
+533	672	1736874760295264304	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp	b64416b9eec7bf29
+10	17	1736020560096528669	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/assets/carRender.jpg	641b81f91282daae
+869	7532	1736874760511934137	CMakeFiles/appTeslaInfotainment.dir/appteslainfotainment_qmltyperegistrations.cpp.o	5d8cd15cbcebc3bf
+465	532	1736874760151928876	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/appTeslaInfotainment.qmltypes	cee0a078fe377ce7
+11	451	1736874760085261235	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appTeslaInfotainment_autogen/timestamp	a7a245b22a59cd86
+869	8958	1736874760508600755	CMakeFiles/appTeslaInfotainment.dir/main.cpp.o	30c6f0162e314e
+179	272	1736529262733221991	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp.o	b754ad1bbc10d041
+95	124	1736527158167695605	.rcc/qmlcache/appTeslaInfotainment_qmlcache_loader.cpp	4aec6d0c92692ee5
+7533	13722	1736874767175364846	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.o	49e5b236a64e89c8
+94	106	1736441409298125655	.qt/rcc/qrc_qmake_TeslaInfotainment.cpp	c4aad33f1b869469
+11	451	1736874760085261235	appTeslaInfotainment_autogen/timestamp	a7a245b22a59cd86
+11	17	1736529262569886234	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/BottomBar/VolumeComponent.qml	f3c3e5ca62e137a4
+532	868	1736874760501933991	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp	fd145d642a5cfe6f
+533	836	1736874760468600171	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+536	716	1736874760338598270	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp	883217eec24875de
+33	45	1736105616829688382	TeslaInfotainment/ui/assets/carRender2.png	86cb18801408eaa5
+536	845	1736874760475266934	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+11	16	1736352135019379582	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml	c08d33717b44d466
+532	858	1736874760491933845	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.aotstats	3a82f51821072fdc
+95	124	1736527158167695605	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_qmlcache_loader.cpp	4aec6d0c92692ee5
+533	672	1736874760295264304	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	b64416b9eec7bf29
+456	465	1736874760105261528	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/qt6appteslainfotainment_debug_metatypes.json	61d78403e7d90ae8
+11	55	1736529262609886828	.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+456	465	1736874760105261528	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/qt6appteslainfotainment_debug_metatypes.json.gen	61d78403e7d90ae8
+533	836	1736874760468600171	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+533	836	1736874760468600171	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+604	745	1736441409798140349	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_TeslaInfotainment.cpp.o	8f65c6e3987e0c9f
+867	7812	1736433690763670220	CMakeFiles/appTeslaInfotainment.dir/controllers/hvachandler.cpp.o	631fdefeb71e37c6
+12	411	1736874850679918462	appTeslaInfotainment_autogen/timestamp	a7a245b22a59cd86
+12	411	1736874850679918462	appTeslaInfotainment_autogen/mocs_compilation.cpp	a7a245b22a59cd86
+12	411	1736874850679918462	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appTeslaInfotainment_autogen/timestamp	a7a245b22a59cd86
+12	411	1736874850679918462	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appTeslaInfotainment_autogen/mocs_compilation.cpp	a7a245b22a59cd86
+411	417	1736874850693251990	meta_types/appTeslaInfotainment_json_file_list.txt	6bc5ec2f2045ba56
+411	417	1736874850693251990	meta_types/appTeslaInfotainment_json_file_list.txt.timestamp	6bc5ec2f2045ba56
+411	417	1736874850693251990	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/appTeslaInfotainment_json_file_list.txt	6bc5ec2f2045ba56
+411	417	1736874850693251990	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/appTeslaInfotainment_json_file_list.txt.timestamp	6bc5ec2f2045ba56
+417	424	1736874850703252136	meta_types/qt6appteslainfotainment_debug_metatypes.json.gen	61d78403e7d90ae8
+417	424	1736874850703252136	meta_types/qt6appteslainfotainment_debug_metatypes.json	61d78403e7d90ae8
+417	424	1736874850703252136	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/qt6appteslainfotainment_debug_metatypes.json.gen	61d78403e7d90ae8
+417	424	1736874850703252136	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/meta_types/qt6appteslainfotainment_debug_metatypes.json	61d78403e7d90ae8
+424	486	1736874850749919485	appteslainfotainment_qmltyperegistrations.cpp	cee0a078fe377ce7
+424	486	1736874850749919485	TeslaInfotainment/appTeslaInfotainment.qmltypes	cee0a078fe377ce7
+424	486	1736874850749919485	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/appteslainfotainment_qmltyperegistrations.cpp	cee0a078fe377ce7
+424	486	1736874850749919485	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/appTeslaInfotainment.qmltypes	cee0a078fe377ce7
+489	680	1736874850949922408	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp	883217eec24875de
+489	680	1736874850949922408	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.aotstats	883217eec24875de
+489	680	1736874850949922408	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp	883217eec24875de
+489	680	1736874850949922408	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.aotstats	883217eec24875de
+489	681	1736874850933255497	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+489	681	1736874850933255497	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+489	681	1736874850933255497	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+489	681	1736874850933255497	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+489	684	1736874850949922408	.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp	b64416b9eec7bf29
+489	684	1736874850949922408	.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	b64416b9eec7bf29
+489	684	1736874850949922408	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp	b64416b9eec7bf29
+489	684	1736874850949922408	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	b64416b9eec7bf29
+486	728	1736874850986589611	.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp	fd145d642a5cfe6f
+486	728	1736874850986589611	.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.aotstats	fd145d642a5cfe6f
+486	728	1736874850986589611	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp	fd145d642a5cfe6f
+486	728	1736874850986589611	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.aotstats	fd145d642a5cfe6f
+486	731	1736874850996589757	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp	3a82f51821072fdc
+486	731	1736874850996589757	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.aotstats	3a82f51821072fdc
+486	731	1736874850996589757	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp	3a82f51821072fdc
+486	731	1736874850996589757	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.aotstats	3a82f51821072fdc
+486	757	1736874851026590195	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+486	757	1736874851026590195	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+486	757	1736874851026590195	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+486	757	1736874851026590195	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+680	804	1736874851076590926	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp	614abb5d7112690a
+680	804	1736874851076590926	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.aotstats	614abb5d7112690a
+680	804	1736874851076590926	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp	614abb5d7112690a
+680	804	1736874851076590926	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.aotstats	614abb5d7112690a
+806	7587	1736874851083257689	CMakeFiles/appTeslaInfotainment.dir/controllers/volumehandler.cpp.o	3d770c86efbcd336
+804	7749	1736874851083257689	CMakeFiles/appTeslaInfotainment.dir/appTeslaInfotainment_autogen/mocs_compilation.cpp.o	96a872b7deb76182
+805	8064	1736874851083257689	CMakeFiles/appTeslaInfotainment.dir/appteslainfotainment_qmltyperegistrations.cpp.o	5d8cd15cbcebc3bf
+807	8699	1736874851086591072	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_Main_qml.cpp.o	a4d6dde26d0f2eb5
+805	9025	1736874851083257689	CMakeFiles/appTeslaInfotainment.dir/main.cpp.o	30c6f0162e314e
+809	9967	1736874851086591072	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/BottomBar_qml.cpp.o	112747d434e8b976
+8065	14322	1736874858344394425	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/NavigationSearchBox_qml.cpp.o	49e5b236a64e89c8
+7750	14442	1736874858032543705	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/LeftScreen/LeftScreen_qml.cpp.o	2a404f57a887812f
+9025	15317	1736874859302925512	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/VolumeComponent_qml.cpp.o	b817e6b705b06f18
+8699	15414	1736874858978376656	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.o	158b9b4e085347d9
+7587	15650	1736874857867534351	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.o	c91e75d0075bb9ee
+15650	16277	1736874865926778947	appTeslaInfotainment	53b595cc9ec34dc0
+28	37	1737322923124430516	TeslaInfotainment/ui/RightScreen/RightScreen.qml	a291761edc94b228
+28	37	1737322923124430516	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/RightScreen/RightScreen.qml	a291761edc94b228
+29	90	1737322923167764755	.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+29	90	1737322923167764755	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+91	123	1737322923211098994	.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+91	123	1737322923211098994	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+90	226	1737322923304434278	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+90	226	1737322923304434278	.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+90	226	1737322923304434278	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp	d3b7513ff2b591b1
+90	226	1737322923304434278	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.aotstats	d3b7513ff2b591b1
+227	362	1737322923314434488	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp.o	b754ad1bbc10d041
+226	4512	1737322923314434488	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/RightScreen/RightScreen_qml.cpp.o	c91e75d0075bb9ee
+4512	5310	1737322927601190775	appTeslaInfotainment	53b595cc9ec34dc0
+23	30	1737323009769576722	TeslaInfotainment/ui/BottomBar/HVACComponent.qml	90de849b93c8dd01
+23	30	1737323009769576722	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/TeslaInfotainment/ui/BottomBar/HVACComponent.qml	90de849b93c8dd01
+24	77	1737323009812910963	.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+24	77	1737323009812910963	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appTeslaInfotainment_build.cmake	de88790946b28bb4
+77	93	1737323009829577978	.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+77	93	1737323009829577978	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp	92daf6da54ad0e61
+77	189	1737323009919579863	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+77	189	1737323009919579863	.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+77	189	1737323009919579863	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp	5bfb644361d21962
+77	189	1737323009919579863	/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.aotstats	5bfb644361d21962
+190	263	1737323009929580073	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appTeslaInfotainment_raw_qml_0.cpp.o	b754ad1bbc10d041
+190	3533	1737323009929580073	CMakeFiles/appTeslaInfotainment.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appTeslaInfotainment_ui/BottomBar/HVACComponent_qml.cpp.o	158b9b4e085347d9
+3534	4185	1737323013272983418	appTeslaInfotainment	53b595cc9ec34dc0

@@ -1,0 +1,57 @@
+{
+    "classes": [
+        {
+            "className": "VolumeHandler",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "uint"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "changeVolume",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "volume",
+                    "notify": "volumeChanged",
+                    "read": "volume",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "uint",
+                    "user": false,
+                    "write": "setVolume"
+                }
+            ],
+            "qualifiedClassName": "VolumeHandler",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "volumeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "volumehandler.h",
+    "outputRevision": 68
+}

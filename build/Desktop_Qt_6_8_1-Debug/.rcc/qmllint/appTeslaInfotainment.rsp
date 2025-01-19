@@ -1,0 +1,18 @@
+--bare
+-I
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/hebi/QtInstall/6.8.1/gcc_64/qml
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_TeslaInfotainment.qrc
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appTeslaInfotainment_raw_qml_0.qrc
+--resource
+/home/hebi/QML Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qml.qrc
+/home/hebi/QML Tut/Other/TeslaInfotainment/Main.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/BottomBar.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/RightScreen.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/HVACComponent.qml
+/home/hebi/QML Tut/Other/TeslaInfotainment/ui/BottomBar/VolumeComponent.qml
