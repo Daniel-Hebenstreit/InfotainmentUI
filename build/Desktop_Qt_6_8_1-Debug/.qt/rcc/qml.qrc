@@ -14,6 +14,7 @@
     <file alias="ui/assets/volume-mid.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-mid.png</file>
     <file alias="ui/assets/volume-up.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-up.png</file>
     <file alias="ui/assets/volume-max.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/volume-max.png</file>
+    <file alias="ui/assets/marker.png">/home/hebi/QML Tut/Other/TeslaInfotainment/ui/assets/marker.png</file>
   </qresource>
 </RCC>
 

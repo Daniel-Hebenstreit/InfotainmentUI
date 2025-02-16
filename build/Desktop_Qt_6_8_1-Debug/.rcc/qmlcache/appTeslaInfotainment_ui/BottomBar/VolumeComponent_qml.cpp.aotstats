@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 237,
+                        "durationMicroseconds": 338,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 14
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 194,
+                        "durationMicroseconds": 288,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 17
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 169,
+                        "durationMicroseconds": 240,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 18
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 167,
+                        "durationMicroseconds": 234,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 19
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 291,
+                        "durationMicroseconds": 407,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 29
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 132,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 233,
+                        "durationMicroseconds": 352,
                         "errorMessage": "Cannot access value for name Volume",
                         "functionName": "onClicked",
                         "line": 35
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 33
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 215,
+                        "durationMicroseconds": 322,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 53
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 113,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 54
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 389,
+                        "durationMicroseconds": 395,
                         "errorMessage": "Cannot access value for name Volume",
                         "functionName": "source",
                         "line": 72
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 248,
+                        "durationMicroseconds": 283,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 48
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 299,
+                        "durationMicroseconds": 296,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 50
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 275,
+                        "durationMicroseconds": 284,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 90
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 284,
+                        "durationMicroseconds": 295,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 94
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 284,
+                        "durationMicroseconds": 282,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 96
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 207,
+                        "durationMicroseconds": 274,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 98
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 329,
+                        "durationMicroseconds": 420,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 102
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 360,
+                        "durationMicroseconds": 502,
                         "errorMessage": "Cannot access value for name Volume",
                         "functionName": "text",
                         "line": 106
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 214,
+                        "durationMicroseconds": 356,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 115
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 211,
+                        "durationMicroseconds": 399,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 118
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 168,
+                        "durationMicroseconds": 298,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 119
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 167,
+                        "durationMicroseconds": 262,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 120
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 273,
+                        "durationMicroseconds": 436,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 130
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 150,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 125
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 331,
+                        "durationMicroseconds": 413,
                         "errorMessage": "Cannot access value for name Volume",
                         "functionName": "onClicked",
                         "line": 136
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 86,
+                        "durationMicroseconds": 155,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 134

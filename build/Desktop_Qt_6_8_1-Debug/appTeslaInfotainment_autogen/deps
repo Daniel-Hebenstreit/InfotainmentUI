@@ -1,5 +1,7 @@
 appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/CMakeLists.txt \
+	/home/hebi/QML\ Tut/Other/TeslaInfotainment/api/nominatimapiclient.cpp \
+	/home/hebi/QML\ Tut/Other/TeslaInfotainment/api/nominatimapiclient.h \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appTeslaInfotainment_conf.cmake \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/.qtc/package-manager/auto-setup.cmake \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
@@ -12,11 +14,21 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/controllers/volumehandler.cpp \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/controllers/volumehandler.h \
 	/home/hebi/QML\ Tut/Other/TeslaInfotainment/main.cpp \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QFlags \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QList \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QMetaType \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QObject \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QSharedDataPointer \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QString \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QTimer \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QUrl \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/QVariant \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q20functional.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q20iterator.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q20memory.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q20type_traits.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q23utility.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/q26numeric.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qalgorithms.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qanystringview.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qarraydata.h \
@@ -32,6 +44,7 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qbytearrayalgorithms.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qbytearraylist.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qbytearrayview.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcalendar.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qchar.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcompare.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcompare_impl.h \
@@ -42,8 +55,12 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcontainerfwd.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcontainerinfo.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcontainertools_impl.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcontiguouscache.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qcryptographichash.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qdarwinhelpers.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qdatastream.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qdatetime.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qdebug.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qexceptionhandling.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qflags.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qfloat16.h \
@@ -53,14 +70,18 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qgenericatomic.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qglobal.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qglobalstatic.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qhash.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qhashfunctions.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qiodevice.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qiodevicebase.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qiterable.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qiterator.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qlatin1stringview.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qlist.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qlocale.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qlogging.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qmalloc.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qmap.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qmath.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qmetacontainer.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qmetatype.h \
@@ -77,6 +98,12 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qrefcount.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qscopedpointer.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qscopeguard.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qset.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qshareddata.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qshareddata_impl.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qsharedpointer.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qsharedpointer_impl.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qspan.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qstring.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qstringalgorithms.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qstringbuilder.h \
@@ -100,6 +127,7 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtdeprecationdefinitions.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtdeprecationmarkers.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtenvironmentvariables.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtextstream.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtimer.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtmetamacros.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtnoop.h \
@@ -111,10 +139,31 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtversionchecks.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtypeinfo.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qtypes.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qurl.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qutf8stringview.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qvariant.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qvarlengtharray.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qversiontagging.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qxptype_traits.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtCore/qyieldcpu.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/QNetworkAccessManager \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/QSslConfiguration \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qabstractsocket.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qhostaddress.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qhttpheaders.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qnetworkaccessmanager.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qnetworkrequest.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qssl.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qsslcertificate.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qsslconfiguration.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qsslerror.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qsslsocket.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qtcpsocket.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qtnetwork-config.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qtnetworkexports.h \
+	/home/hebi/QtInstall/6.8.1/gcc_64/include/QtNetwork/qtnetworkglobal.h \
 	/home/hebi/QtInstall/6.8.1/gcc_64/lib/cmake/Qt6/3rdparty/kwin/FindXKB.cmake \
 	/home/hebi/QtInstall/6.8.1/gcc_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	/home/hebi/QtInstall/6.8.1/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake \
@@ -703,9 +752,17 @@ appTeslaInfotainment_autogen/timestamp: \
 	/home/hebi/QtInstall/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux.cmake \
 	/home/hebi/QtInstall/Tools/CMake/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
 	/usr/include/alloca.h \
+	/usr/include/asm-generic/bitsperlong.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
+	/usr/include/asm-generic/int-ll64.h \
+	/usr/include/asm-generic/posix_types.h \
+	/usr/include/asm-generic/types.h \
+	/usr/include/asm/bitsperlong.h \
 	/usr/include/asm/errno.h \
+	/usr/include/asm/posix_types.h \
+	/usr/include/asm/posix_types_64.h \
+	/usr/include/asm/types.h \
 	/usr/include/assert.h \
 	/usr/include/bits/atomic_wide_counter.h \
 	/usr/include/bits/byteswap.h \
@@ -716,8 +773,11 @@ appTeslaInfotainment_autogen/timestamp: \
 	/usr/include/bits/floatn-common.h \
 	/usr/include/bits/floatn.h \
 	/usr/include/bits/libc-header-start.h \
+	/usr/include/bits/local_lim.h \
 	/usr/include/bits/locale.h \
 	/usr/include/bits/long-double.h \
+	/usr/include/bits/posix1_lim.h \
+	/usr/include/bits/posix2_lim.h \
 	/usr/include/bits/pthread_stack_min-dynamic.h \
 	/usr/include/bits/pthreadtypes-arch.h \
 	/usr/include/bits/pthreadtypes.h \
@@ -763,10 +823,12 @@ appTeslaInfotainment_autogen/timestamp: \
 	/usr/include/bits/types/wint_t.h \
 	/usr/include/bits/typesizes.h \
 	/usr/include/bits/uintn-identity.h \
+	/usr/include/bits/uio_lim.h \
 	/usr/include/bits/waitflags.h \
 	/usr/include/bits/waitstatus.h \
 	/usr/include/bits/wchar.h \
 	/usr/include/bits/wordsize.h \
+	/usr/include/bits/xopen_lim.h \
 	/usr/include/c++/14.2.1/algorithm \
 	/usr/include/c++/14.2.1/array \
 	/usr/include/c++/14.2.1/atomic \
@@ -858,9 +920,11 @@ appTeslaInfotainment_autogen/timestamp: \
 	/usr/include/c++/14.2.1/bits/utility.h \
 	/usr/include/c++/14.2.1/bits/vector.tcc \
 	/usr/include/c++/14.2.1/bits/version.h \
+	/usr/include/c++/14.2.1/cassert \
 	/usr/include/c++/14.2.1/cctype \
 	/usr/include/c++/14.2.1/cerrno \
 	/usr/include/c++/14.2.1/chrono \
+	/usr/include/c++/14.2.1/climits \
 	/usr/include/c++/14.2.1/clocale \
 	/usr/include/c++/14.2.1/cmath \
 	/usr/include/c++/14.2.1/compare \
@@ -936,7 +1000,12 @@ appTeslaInfotainment_autogen/timestamp: \
 	/usr/include/features.h \
 	/usr/include/gnu/stubs-64.h \
 	/usr/include/gnu/stubs.h \
+	/usr/include/limits.h \
 	/usr/include/linux/errno.h \
+	/usr/include/linux/limits.h \
+	/usr/include/linux/posix_types.h \
+	/usr/include/linux/stddef.h \
+	/usr/include/linux/types.h \
 	/usr/include/locale.h \
 	/usr/include/pthread.h \
 	/usr/include/sched.h \

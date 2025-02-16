@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 342,
+                        "durationMicroseconds": 323,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 294,
+                        "durationMicroseconds": 280,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 15
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 302,
+                        "durationMicroseconds": 239,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 16
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 185,
+                        "durationMicroseconds": 233,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 17
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 276,
+                        "durationMicroseconds": 377,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 28
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 23
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 67,
                         "errorMessage": "Cannot access value for name hvacController",
                         "functionName": "onClicked",
                         "line": 34
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 81,
+                        "durationMicroseconds": 123,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 32
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 15,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 49,
                         "errorMessage": "Cannot access value for name hvacController",
                         "functionName": "text",
                         "line": 48
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 295,
+                        "durationMicroseconds": 7137,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 50
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 175,
+                        "durationMicroseconds": 279,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 43
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 188,
+                        "durationMicroseconds": 251,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 45
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 218,
+                        "durationMicroseconds": 254,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 56
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 241,
+                        "durationMicroseconds": 260,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 59
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 189,
+                        "durationMicroseconds": 239,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 60
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 243,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 61
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 276,
+                        "durationMicroseconds": 376,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 73
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 155,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 68
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 70,
                         "errorMessage": "Cannot access value for name hvacController",
                         "functionName": "onClicked",
                         "line": 79
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 263,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 77

@@ -27,25 +27,6 @@ Rectangle {
 
         property geoCoordinate startCentroid
 
-        /*
-        PinchHandler {
-            id: pinch
-            target: null
-            onActiveChanged: if (active) {
-                                 map.startCentroid = map.toCoordinate(pinch.centroid.position, false)
-                             }
-            onScaleChanged: (delta) => {
-                                map.zoomLevel += Math.log2(delta)
-                                map.alignCoordinateToPoint(map.startCentroid, pinch.centroid.position)
-                            }
-            onRotationChanged: (delta) => {
-                                   map.bearing -= delta
-                                   map.alignCoordinateToPoint(map.startCentroid, pinch.centroid.position)
-                               }
-            grabPermissions: PointerHandler.TakeOverForbidden
-        }
-        */
-
         WheelHandler {
             id: wheel
             // workaround for QTBUG-87646 / QTBUG-112394 / QTBUG-112432:
@@ -71,6 +52,37 @@ Rectangle {
             enabled: map.zoomLevel > map.minimumZoomLevel
             sequence: StandardKey.ZoomOut
             onActivated: map.zoomLevel = Math.round(map.zoomLevel - 1)
+        }
+        MouseArea {
+                anchors.fill: parent
+
+                // Capture coordinates of clicked position
+                onClicked: {
+                    marker.coordinate = map.toCoordinate(Qt.point(mouse.x, mouse.y))
+
+                    console.log(clickPos)
+
+                }
+            }
+
+        // Marker integration
+        MapQuickItem {
+            id: marker
+
+            // Defines which part of the image points to the coordinates (top of the marker)
+            anchorPoint.x: image.width/2
+            anchorPoint.y: image.height
+
+            coordinate: {
+                map.center
+            }
+
+            sourceItem: Image {
+                id: image
+                width: 48
+                height: 48
+                source: "qrc:/ui/assets/marker.png"
+            }
         }
 
     }
@@ -188,6 +200,24 @@ Rectangle {
                 leftMargin: 18
             }
             source: "qrc:/ui/assets/search.png"
+
+            MouseArea {
+                anchors.fill: parent
+
+                onClicked: {
+                    //console.log("Search: " + searchInput.text)
+                    Nominatim.searchLocation(searchInput.text)
+                }
+            }
+
+            Connections {
+                target: Nominatim
+                function onSearchCompleted(lat, lon) {
+                    map.center = QtPositioning.coordinate(lat, lon)
+                    map.zoomLevel = 19
+                    marker.coordinate = map.center
+                }
+            }
         }
 
         Text {
@@ -225,6 +255,12 @@ Rectangle {
             }
 
             verticalAlignment: Text.AlignVCenter
+
+            Keys.onReturnPressed: {
+                Nominatim.searchLocation(searchInput.text)
+                //map.marker.coordinate = QtPositioning.coordinate(lat, lon)
+                //console.log(map.marker.coordinate)
+            }
 
         }
     }

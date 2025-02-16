@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "className": "NominatimApiClient",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "query",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "searchLocation",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "NominatimApiClient",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "lat",
+                            "type": "double"
+                        },
+                        {
+                            "name": "lon",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "searchCompleted",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "handleNetworkReply",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "nominatimapiclient.h",
+    "outputRevision": 68
+}

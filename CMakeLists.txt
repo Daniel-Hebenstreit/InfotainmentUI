@@ -26,6 +26,7 @@ qt_add_qml_module(appTeslaInfotainment
         QML_FILES ui/BottomBar/HVACComponent.qml
         QML_FILES ui/BottomBar/VolumeComponent.qml
         SOURCES controllers/volumehandler.h controllers/volumehandler.cpp
+        SOURCES api/nominatimapiclient.h api/nominatimapiclient.cpp
 
 )
 
@@ -46,7 +47,7 @@ qt_add_resources(appTeslaInfotainment "qml"
         ui/assets/volume-mid.png
         ui/assets/volume-up.png
         ui/assets/volume-max.png
-
+        ui/assets/marker.png
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

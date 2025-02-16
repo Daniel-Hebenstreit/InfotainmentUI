@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 14,
-                        "durationMicroseconds": 373,
+                        "durationMicroseconds": 368,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 345,
+                        "durationMicroseconds": 357,
                         "errorMessage": "Cannot access value for name bottomBar",
                         "functionName": "bottom",
                         "line": 9
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 252,
+                        "durationMicroseconds": 318,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 10
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 359,
+                        "durationMicroseconds": 369,
                         "errorMessage": "Cannot access value for name rightScreen",
                         "functionName": "right",
                         "line": 11
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 339,
+                        "durationMicroseconds": 327,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 17
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 285,
+                        "durationMicroseconds": 224,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 18
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 134,
+                        "durationMicroseconds": 270,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 16

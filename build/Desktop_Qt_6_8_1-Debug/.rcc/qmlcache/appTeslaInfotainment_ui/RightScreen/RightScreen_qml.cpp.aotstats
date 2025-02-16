@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 1078,
+                        "durationMicroseconds": 447,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 14,
-                        "durationMicroseconds": 199,
+                        "durationMicroseconds": 176,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 11
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 235,
+                        "durationMicroseconds": 219,
                         "errorMessage": "Cannot access value for name bottomBar",
                         "functionName": "bottom",
                         "line": 12
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 222,
+                        "durationMicroseconds": 168,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 13
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 142,
+                        "durationMicroseconds": 90,
                         "errorMessage": "",
                         "functionName": "plugin",
                         "line": 24
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 392,
+                        "durationMicroseconds": 326,
                         "errorMessage": "",
                         "functionName": "center",
                         "line": 25
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 79,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 23
@@ -62,18 +62,18 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 1040,
+                        "durationMicroseconds": 1949,
                         "errorMessage": "",
                         "functionName": "acceptedDevices",
-                        "line": 54
+                        "line": 35
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 194,
+                        "durationMicroseconds": 263,
                         "errorMessage": "",
                         "functionName": "rotationScale",
-                        "line": 57
+                        "line": 38
                     },
                     {
                         "codegenSuccessfull": false,
@@ -81,351 +81,431 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "onTranslationChanged",
-                        "line": 63
+                        "line": 44
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 103,
                         "errorMessage": "",
                         "functionName": "onTranslationChanged",
-                        "line": 63
+                        "line": 44
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 339,
+                        "durationMicroseconds": 388,
                         "errorMessage": "",
                         "functionName": "enabled",
-                        "line": 66
+                        "line": 47
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 209,
                         "errorMessage": "",
                         "functionName": "sequence",
-                        "line": 67
+                        "line": 48
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 476,
+                        "durationMicroseconds": 726,
                         "errorMessage": "",
                         "functionName": "onActivated",
-                        "line": 68
+                        "line": 49
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 248,
+                        "durationMicroseconds": 402,
                         "errorMessage": "",
                         "functionName": "enabled",
-                        "line": 71
+                        "line": 52
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 137,
+                        "durationMicroseconds": 374,
                         "errorMessage": "",
                         "functionName": "sequence",
-                        "line": 72
+                        "line": 53
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 373,
+                        "durationMicroseconds": 643,
                         "errorMessage": "",
                         "functionName": "onActivated",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name mouse",
+                        "functionName": "onClicked",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "coordinate",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "",
+                        "functionName": "x",
                         "line": 73
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 234,
+                        "durationMicroseconds": 255,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 87
+                        "line": 99
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 112,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 88
+                        "line": 100
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 354,
+                        "durationMicroseconds": 339,
                         "errorMessage": "Cannot access value for name SystemHandler",
                         "functionName": "source",
-                        "line": 90
+                        "line": 102
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 187,
+                        "durationMicroseconds": 177,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 82
+                        "line": 94
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 188,
+                        "durationMicroseconds": 163,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 83
+                        "line": 95
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 354,
+                        "durationMicroseconds": 329,
                         "errorMessage": "Cannot access value for name SystemHandler",
                         "functionName": "onClicked",
-                        "line": 95
+                        "line": 107
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 117,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 93
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 15,
-                        "durationMicroseconds": 537,
-                        "errorMessage": "Cannot access value for name SystemHandler",
-                        "functionName": "text",
-                        "line": 114
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 202,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 104
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 177,
-                        "errorMessage": "",
-                        "functionName": "top",
                         "line": 105
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 15,
-                        "durationMicroseconds": 436,
+                        "durationMicroseconds": 393,
                         "errorMessage": "Cannot access value for name SystemHandler",
                         "functionName": "text",
-                        "line": 130
+                        "line": 126
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 185,
+                        "durationMicroseconds": 207,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 121
+                        "line": 116
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 175,
+                        "durationMicroseconds": 164,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 122
+                        "line": 117
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 215,
-                        "errorMessage": "",
-                        "functionName": "width",
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 452,
+                        "errorMessage": "Cannot access value for name SystemHandler",
+                        "functionName": "text",
                         "line": 142
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 192,
-                        "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 143
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 258,
+                        "durationMicroseconds": 170,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 137
+                        "line": 133
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 234,
+                        "durationMicroseconds": 197,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 138
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 15,
-                        "durationMicroseconds": 667,
-                        "errorMessage": "Cannot access value for name SystemHandler",
-                        "functionName": "text",
-                        "line": 161
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 284,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 152
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 243,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 153
+                        "line": 134
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 274,
+                        "durationMicroseconds": 198,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 167
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 281,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 168
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 221,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 171
+                        "line": 154
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 248,
+                        "durationMicroseconds": 103,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 172
+                        "functionName": "fillMode",
+                        "line": 155
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 181,
+                        "column": 19,
+                        "durationMicroseconds": 164,
                         "errorMessage": "",
-                        "functionName": "fillMode",
+                        "functionName": "left",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 580,
+                        "errorMessage": "Cannot access value for name SystemHandler",
+                        "functionName": "text",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 367,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 358,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "height",
                         "line": 180
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 22,
-                        "durationMicroseconds": 257,
+                        "column": 18,
+                        "durationMicroseconds": 176,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 183
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 239,
+                        "column": 19,
+                        "durationMicroseconds": 214,
                         "errorMessage": "",
-                        "functionName": "bottom",
+                        "functionName": "left",
                         "line": 184
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 243,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 185
+                        "functionName": "fillMode",
+                        "line": 192
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 298,
+                        "durationMicroseconds": 183,
                         "errorMessage": "",
-                        "functionName": "visible",
-                        "line": 197
+                        "functionName": "top",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 196
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 187,
+                        "durationMicroseconds": 213,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 200
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "Cannot access value for name Nominatim",
+                        "functionName": "onClicked",
+                        "line": 207
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 198,
+                        "column": 31,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 202
+                        "functionName": "fill",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot access value for name Nominatim",
+                        "functionName": "target",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onSearchCompleted",
+                        "line": 215
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 32,
-                        "durationMicroseconds": 344,
+                        "column": 22,
+                        "durationMicroseconds": 211,
                         "errorMessage": "",
-                        "functionName": "verticalAlignment",
+                        "functionName": "visible",
                         "line": 227
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 255,
+                        "durationMicroseconds": 217,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 220
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 250
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 211,
+                        "durationMicroseconds": 397,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 222
+                        "line": 252
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 231,
+                        "durationMicroseconds": 339,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 223
+                        "line": 253
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 170,
+                        "durationMicroseconds": 345,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 224
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 791,
+                        "errorMessage": "Cannot access value for name Nominatim",
+                        "functionName": "onReturnPressed",
+                        "line": 259
                     }
                 ],
                 "filepath": "/home/hebi/QML Tut/Other/TeslaInfotainment/ui/RightScreen/RightScreen.qml"

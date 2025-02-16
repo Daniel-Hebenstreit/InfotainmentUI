@@ -5,6 +5,7 @@
 #include "controllers/system.h"
 #include "controllers/hvachandler.h"
 #include "controllers/volumehandler.h"
+#include "api/nominatimapiclient.h"
 
 int main(int argc, char *argv[])
 {
@@ -12,21 +13,26 @@ int main(int argc, char *argv[])
 
     QQmlApplicationEngine engine;
 
-    // Objekte erstellen
+    // Create objects
     System mySystemHandler;
 
     HVACHandler mDriverHVAC;
     HVACHandler mPassengerHVAC;
     VolumeHandler mVolume;
 
+    NominatimApiClient mNominatim;
 
-    // Objekte als Context Property deklarieren
+    // Declare objects as context properties
     QQmlContext * contextProp(engine.rootContext());
     contextProp->setContextProperty("SystemHandler", &mySystemHandler);
 
     contextProp->setContextProperty("DriverHVAC", &mDriverHVAC);
     contextProp->setContextProperty("PassengerHVAC", &mPassengerHVAC);
     contextProp->setContextProperty("Volume", &mVolume);
+
+    contextProp->setContextProperty("Nominatim", &mNominatim);
+
+    //
 
     QObject::connect(
         &engine,
